@@ -1,0 +1,27 @@
+h1{
+    color: yellow;
+    padding: 5px;
+    font-family: 'Dancing Script', cursive;
+    }
+
+h2{
+    color: black;
+    padding: 1px;
+    font-family: 'Permanent Marker';}
+
+.navbar-dark .navbar-brand{
+    color:yellow;
+    font-family: 'Permanent Marker';
+
+}
+
+.jumbotron{
+    background-image: url(https://c1.staticflickr.com/1/812/27370179328_c52a43c762_b.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+iframe{height: 300px; width: 520px;}
+
+
